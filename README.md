@@ -1,0 +1,1 @@
+This is the github repository for the capstone1 project for Node js track Group 33. It contains our pure node js code and files used for the exercise. To run the code simply type node server.js or npm start or to run it without restarting it type npm start:dev
